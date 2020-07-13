@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83805252918",
+    "firebase_url": "https://markedlocations.firebaseio.com",
+    "project_id": "markedlocations",
+    "storage_bucket": "markedlocations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83805252918:android:1fa082ec6fe3e391f5d797",
+        "android_client_info": {
+          "package_name": "com.example.saveloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83805252918-qi6dlu3d48o0np5oh0v636jb8hcejknj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwH-tU0SSlwky5S1GN6__tWHo_5SGalxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83805252918-qi6dlu3d48o0np5oh0v636jb8hcejknj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

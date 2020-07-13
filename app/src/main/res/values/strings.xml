@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SaveLoc</string>
+    <string name="title_activity_maps">SaveLoc</string>
+    <string name="save">Αποθηκευση</string>
+    <string-array name="markerColors">
+        <item>Κυανό</item>
+        <item>Γαλάζιο</item>
+        <item>Μπλέ</item>
+        <item>Πράσινο</item>
+        <item>Κόκκινο</item>
+        <item>Ροζ</item>
+        <item>Πορτοκάλί</item>
+        <item>Κίτρινο</item>
+        <item>Βιολετί</item>
+        <item>Ματζέντα</item>
+    </string-array>
+</resources>
